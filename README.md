@@ -4,7 +4,7 @@ Group8
 
 # **Description of the Project**
 
-In our MLOps project we will be classifying Donald Trump’s mood based on his Tweets. In this project, we will perform sentiment analysis on text data from Twitter. Our main goal is to learn the basics of MLOps while building a simple model that can rate and categorize Elon Musk’s emotional tone.
+In our MLOps project we will be classifying Donald Trump’s mood based on his Tweets. In this project, we will perform sentiment analysis on text data from Twitter. Our main goal is to learn the basics of MLOps while building a simple model that can rate and categorize Donald Trump’s emotional tone.
 
 ## **1. Dataset:**
 
@@ -28,7 +28,7 @@ We intend to use a few simple frameworks. First, we will use MLflow for experime
 
 ## **6. Data:**
 
-Our data will be the text from Elon Musk’s tweets. We will run them through the DistilBERT model for sentiment analysis. This text data is easy to collect from Twitter with public APIs or already available datasets from Kaggle.
+Our data will be the text from Donald Trump’s tweets. We will run them through the DistilBERT model for sentiment analysis. This text data is easy to collect from Twitter with public APIs or already available datasets from Kaggle.
 
 ## **7. Expected Models:**
 
